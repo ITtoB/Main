@@ -9,7 +9,7 @@ echo -e "\033[32mRunning script with admin privileges ✅\033[0m"
 
 # Create the directory to store certificates
 #sudo mkdir -p /etc/ssl/mycerts
-sudo chmod 640 ./$HOSTNAME.*
+#sudo chmod 640 ./$HOSTNAME.*
 
 # Install the OpenSSL module for Lighttpd
 sudo apt install -y lighttpd-mod-openssl
