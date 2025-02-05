@@ -7,10 +7,6 @@ fi
 
 echo -e "\033[32mRunning script with admin privileges ✅\033[0m"
 
-# Create the directory to store certificates
-#sudo mkdir -p /etc/ssl/mycerts
-#sudo chmod 640 ./$HOSTNAME.*
-
 # Install the OpenSSL module for Lighttpd
 sudo apt install -y lighttpd-mod-openssl
 echo -e "\033[32mLighttpd OpenSSL module installed.\033[0m"
@@ -61,6 +57,5 @@ if [ $? -eq 0 ]; then
 else
     echo -e "\033[31mFailed to restart Lighttpd service. Please check the configuration.\033[0m"
 fi
-
 
 echo -e "\033[34mConfiguration completed! Certificates are stored in /etc/ssl/mycerts/.\033[0m"
