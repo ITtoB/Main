@@ -479,6 +479,10 @@
 ||documents-drive.com^
 ||diadok.org^
 ||apstori.ru^
+||kozow.com^
+||opezdol.org^
+||teiehram.org^
+||cloud-workstation.com^
 ||.sbs^
 ||.space^
 ||.place^
@@ -518,3 +522,4 @@
 ||.space^
 ||.kz^
 ||.in^
+||.army^
