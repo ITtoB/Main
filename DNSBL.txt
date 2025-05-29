@@ -483,6 +483,11 @@
 ||opezdol.org^
 ||teiehram.org^
 ||cloud-workstation.com^
+||adobe-updater.net^
+||xma0.com^
+||nicehash.com^
+||euroexchanges.com^
+||varindia.com^
 ||.sbs^
 ||.space^
 ||.place^
@@ -523,3 +528,6 @@
 ||.kz^
 ||.in^
 ||.army^
+||.moe^
+||.com.tr^
+||.sf.net^
