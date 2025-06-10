@@ -488,6 +488,11 @@
 ||nicehash.com^
 ||euroexchanges.com^
 ||varindia.com^
+||nicehash.com^
+||chechombudsman.ru^
+||alternativa123.ru^
+||medbruber.ru^
+||pl82.ru^
 ||.sbs^
 ||.space^
 ||.place^
