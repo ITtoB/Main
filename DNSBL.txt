@@ -9,7 +9,6 @@
 ||aarkhipov.ru^
 ||about-tech.ru^
 ||abxweb.com^
-
 ||akami-cdns.com^
 ||aleksandr-block.com^
 ||alfabiznessu.ru^
@@ -24,7 +23,6 @@
 ||apisolving.com^
 ||appearahead.com^
 ||apple-online.shop^
-
 ||assistance.uz^
 ||astita.ru^
 ||athenatechlabs.com^
@@ -88,7 +86,6 @@
 ||dbacloudsupport.com^
 ||deallerospfosu.shop^
 ||defaces-homes.lol^
-
 ||derart.click^
 ||detankzone.com^
 ||detectis.ru^
