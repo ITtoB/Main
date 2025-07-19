@@ -660,5 +660,3 @@
 ||locker^
 ||cloud^
 ||click^
-@@||agentplus.online^
-@@||mtgagro.pro^
