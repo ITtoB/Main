@@ -575,7 +575,6 @@
 ||okkgb.com^
 ||ignorelist.com^
 ||erwintech.org^
-||cloudfront.net^
 ||b2zei88b61.execute-api.eu-west-2.amazonaws.com^
 ||7dqtdjxfycaqhjvc2qmx5js4aq0juygw.lambda-url.us-east-1.on.aws^
 ||mysterykamchatka.ru^
@@ -597,6 +596,9 @@
 ||mineconom.com^
 ||esf-kg.com^
 ||uploadfile.ru^
+||dyydej4wei7fq.cloudfront.net^
+||d1ismqgtp337lz.cloudfront.net^
+||dzxwmpi8xepml.cloudfront.net^
 ||pictures^
 ||de^
 ||art^
