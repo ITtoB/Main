@@ -341,7 +341,6 @@
 ||dpkg-source.info^
 ||carriertrucks.com^
 ||hexatimes.com^
-||amazonaws.com^
 ||nfond.com^
 ||acschoolcatering.com^
 ||Roofcolor.com^
@@ -576,6 +575,8 @@
 ||ignorelist.com^
 ||erwintech.org^
 ||b2zei88b61.execute-api.eu-west-2.amazonaws.com^
+||login-maildelivery-mailbox.s3.us-east-1.amazonaws.com^
+||s3.us-east-2.amazonaws.com^
 ||7dqtdjxfycaqhjvc2qmx5js4aq0juygw.lambda-url.us-east-1.on.aws^
 ||mysterykamchatka.ru^
 ||kzst45.ru^
