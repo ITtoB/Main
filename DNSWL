@@ -67,8 +67,8 @@ big.oisd.nl
 @@||netcraze.link^
 @@||netcraze.cloud^
 @@||kaspersky-labs.com^
-@@||*cdn*^
-@@||centralus.cloudapp.azure.com^
+@@||*cdn*
+#@@||centralus.cloudapp.azure.com^
 onedsblobvmssprdcus04.centralus.cloudapp.azure.com
 # cdn.whatsapp.net
 # cdn.imnks.com
