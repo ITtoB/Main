@@ -740,6 +740,11 @@
 ||theworldcareers.com^
 ||gocareers.org^
 ||ae.org^
+||likmekh.ru^
+||detruck.ru^
+||geobasket.ru^
+||auto-messenger.ru^
+||activation.easeus.com^
 ||us^
 ||i2p^
 ||onion^
