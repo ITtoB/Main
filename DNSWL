@@ -58,6 +58,10 @@ pikabu.ru
 docker.io
 malware-filter.gitlab.io
 big.oisd.nl
+cdn.whatsapp.net
+cdn.imnks.com
+cdn-ru.bitrix24.ru
+ovu.mycdn.me
 @@||xn--80akicokc0aablc.xn--p1ai^
 @@||xn--80aebkobnwfcnsfk1e0h.xn--p1ai^
 @@||mobi-c.ru^
@@ -67,10 +71,3 @@ big.oisd.nl
 @@||netcraze.link^
 @@||netcraze.cloud^
 @@||kaspersky-labs.com^
-@@*cdn*
-#@@||centralus.cloudapp.azure.com^
-onedsblobvmssprdcus04.centralus.cloudapp.azure.com
-# cdn.whatsapp.net
-# cdn.imnks.com
-# cdn-ru.bitrix24.ru
-# ovu.mycdn.me
