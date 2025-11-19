@@ -9,7 +9,6 @@ dzen.ru
 settings-win.data.microsoft.com
 dl.delivery.mp.microsoft.com
 crl.microsoft.com
-windowsupdate.com
 clck.yandex.ru
 globalsign.com
 www.googletagmanager.com
@@ -66,3 +65,4 @@ vimeocdn.com
 @@||netcraze.link^
 @@||netcraze.cloud^
 @@||kaspersky-labs.com^
+@@||windowsupdate.com^
