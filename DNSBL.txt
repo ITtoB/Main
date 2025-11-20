@@ -745,6 +745,7 @@
 ||geobasket.ru^
 ||auto-messenger.ru^
 ||activation.easeus.com^
+||pgware.com^
 ||us^
 ||i2p^
 ||onion^
