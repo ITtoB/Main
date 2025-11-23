@@ -73,6 +73,12 @@ big.oisd.nl
 tests24.su
 static.rambler.ru
 yadi.sk
+captive.keenetic.ru
+downloads.vivaldi.com
+d.adguard-dns.com
+dns.nextdns.io
+www.youtube.com
+2ip.ru
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 ovu.mycdn.me
@@ -130,3 +136,5 @@ unisound.cdnvideo.ru
 @@||mzstatic.com^
 @@||ecostandard.ru^
 @@||inplat-tech.com^
+@@||avito.com^
+@@||pi-hole.net^
