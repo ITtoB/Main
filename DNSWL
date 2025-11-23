@@ -79,6 +79,11 @@ d.adguard-dns.com
 dns.nextdns.io
 www.youtube.com
 2ip.ru
+web.max.ru
+changeip.com
+www.changeip.com
+www.dynu.com
+workspace.ru
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 ovu.mycdn.me
@@ -138,3 +143,7 @@ unisound.cdnvideo.ru
 @@||inplat-tech.com^
 @@||avito.com^
 @@||pi-hole.net^
+@@||t2.ru^
+@@||drweb.com^
+@@||1c-connect.com^
+@@||vikingcloud.com^
