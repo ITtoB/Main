@@ -71,6 +71,7 @@ ipanda.pro
 malware-filter.gitlab.io
 big.oisd.nl
 tests24.su
+static.rambler.ru
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 ovu.mycdn.me
@@ -123,4 +124,7 @@ unisound.cdnvideo.ru
 @@||advmusic.com^
 @@||roskazna.ru^
 @@||gpmradio.ru^
-#@@||imgsmail.ru^
+@@||imgsmail.ru^
+@@||saby.ru^
+@@||mzstatic.com^
+@@||ecostandard.ru^
