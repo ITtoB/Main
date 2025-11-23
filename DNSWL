@@ -17,6 +17,7 @@ www.googletagmanager.com
 www.google.com
 accounts.google.com
 drive.google.com
+dns.google.com
 #raw.githubusercontent.com
 #static.dzeninfra.ru
 ifconfig.me
@@ -95,6 +96,12 @@ static.cloudflareinsights.com
 a.nel.cloudflare.com
 www.dropvps.com
 decopy.ai
+v-js-menu.run
+e.cen.rodeo
+api.embess.ws
+js.fprxnet.ws
+stats.myangular.life
+api.stiven-king.com
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 ovu.mycdn.me
@@ -168,3 +175,5 @@ cdn.plyr.io
 @@||gitlab.io^
 @@||bitexpert.de^
 @@||tilda.cc^
+@@||videoframe2.com^
+@@||showvid.ws^
