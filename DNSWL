@@ -25,7 +25,7 @@ webattach.mail.yandex.net
 avatars.mds.yandex.net
 yastatic.net
 maps.yastatic.net
-mc.yandex.ru
+#mc.yandex.ru
 ok.ru
 imgs2.imgsmail.ru
 img.imgsmail.ru
@@ -86,6 +86,7 @@ web.max.ru
 changeip.com
 www.changeip.com
 nic.changeip.com
+ip.changeip.com
 braiton.ddnsgeek.com
 www.dynu.com
 workspace.ru
