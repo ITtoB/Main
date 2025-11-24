@@ -106,6 +106,9 @@ api.stiven-king.com
 api.kinogram.best
 static.a.mts.ru
 1cdialog.com
+img.smi2.net
+static.smi2.net
+chat.mirtesen.ru
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
@@ -116,6 +119,10 @@ static.tildacdn.ink
 neo.tildacdn.com
 cdn.plyr.io
 cdn.dodostatic.net
+cdn.pushwoosh.com
+cdn.krut-art.ru
+@@||eaglecdn.com^
+@@||globalcdn.co^
 @@||mycdn.me^
 @@||optimizely.com^
 @@||cdnflow.ru^
@@ -195,3 +202,11 @@ cdn.dodostatic.net
 @@||tinkoff.ru^
 @@||tbank.ru^
 @@||multicarta.ru^
+@@||ria.ru^
+@@||amgradio.ru^
+@@||24smi.net^
+@@||smi2.ru^
+@@||ot7.ru^
+@@||mirtesen.ru^
+@@||mt.ru^
+@@||mtml.ru^
