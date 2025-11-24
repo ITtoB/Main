@@ -132,6 +132,8 @@ fscdn.eppo.cloud
 cdn.retailrocket.ru
 myworld.cdn-vk.net
 cdn4.telesco.pe
+cdn.viberu.ru
+@@||kinescopecdn.net^
 @@||luxcdn.com^
 @@||cdnvideo.ru^
 @@||eaglecdn.com^
