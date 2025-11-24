@@ -12,6 +12,7 @@ metrika.yandex.ru
 push.yandex.ru
 #browser.yandex.ru
 yabs.yandex.ru
+yandex-pogoda.static-storage.net
 #www.gstatic.com
 www.googletagmanager.com
 www.google.com
@@ -116,6 +117,9 @@ web.redhelper.ru
 data.24smi.info
 ocsp.digicert.cn
 crl.digicert.cn
+bitrix.info
+1cv8update.com
+rtc-cloud.bitrix24.tech
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
@@ -133,6 +137,11 @@ cdn.retailrocket.ru
 myworld.cdn-vk.net
 cdn4.telesco.pe
 cdn.viberu.ru
+cdn.troywell.org
+m1.openfpcdn.io
+@@||gcdn.co^
+@@||openfpcdn.io^
+@@||operacdn.com^
 @@||kinescopecdn.net^
 @@||luxcdn.com^
 @@||cdnvideo.ru^
@@ -240,3 +249,4 @@ cdn.viberu.ru
 @@||24smi.net^
 @@||bifit.com^
 @@||omni.ru^
+@@||skillbrains.com^
