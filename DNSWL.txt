@@ -110,7 +110,6 @@ static.smi2.net
 code.jivosite.com
 static.cloudflareinsights.com
 stat.sputnik.ru
-prod.pinterest.global.map.fastly.net
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
