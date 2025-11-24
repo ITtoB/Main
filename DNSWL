@@ -33,6 +33,7 @@ home.imgsmail.ru
 pogoda.imgsmail.ru
 limg.imgsmail.ru
 filin.mail.ru
+my.mail.ru
 kms.digiboy.ir
 #autoline.kz
 #kyoceradocumentsolutions.com
@@ -86,7 +87,6 @@ changeip.com
 www.changeip.com
 nic.changeip.com
 ip.changeip.com
-braiton.ddnsgeek.com
 www.dynu.com
 workspace.ru
 poscenter.ilexx.ru
@@ -104,9 +104,10 @@ js.fprxnet.ws
 stats.myangular.life
 api.stiven-king.com
 api.kinogram.best
+static.a.mts.ru
+1cdialog.com
 cdn-ru.bitrix24.ru
 cdn.imnks.com
-ovu.mycdn.me
 #vimeocdn.com
 cdn.skillbox.pro
 unisound.cdnvideo.ru
@@ -114,6 +115,10 @@ cdn.jsdelivr.net
 static.tildacdn.ink
 neo.tildacdn.com
 cdn.plyr.io
+cdn.dodostatic.net
+@@||mycdn.me^
+@@||optimizely.com^
+@@||cdnflow.ru^
 @@||xn--80aebkobnwfcnsfk1e0h.xn--p1ai^
 @@||xn--80akicokc0aablc.xn--p1ai^
 @@||mobi-c.ru^
@@ -181,3 +186,12 @@ cdn.plyr.io
 @@||showvid.ws^
 @@||lencr.org^
 @@||nextdns.io^
+@@||rudesktop.ru^
+@@||kinescope.io^
+@@||rn-card.ru^
+@@||braiton.ddnsgeek.com^
+@@||cdn-tinkoff.ru^
+@@||autofaq.ai^
+@@||tinkoff.ru^
+@@||tbank.ru^
+@@||multicarta.ru^
