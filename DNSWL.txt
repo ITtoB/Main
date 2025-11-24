@@ -82,10 +82,6 @@ d.adguard-dns.com
 www.youtube.com
 2ip.ru
 web.max.ru
-changeip.com
-www.changeip.com
-nic.changeip.com
-ip.changeip.com
 www.dynu.com
 workspace.ru
 poscenter.ilexx.ru
@@ -124,6 +120,7 @@ rtc-cloud.bitrix24.tech
 nalog-nalog.ru
 armtek.by
 api.snapcraft.io
+tsecurity.de
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
@@ -256,3 +253,4 @@ cdn.amcharts.com
 @@||skillbrains.com^
 @@||flypobeda.ru^
 @@||brmtr.org^
+@@||changeip.com^
