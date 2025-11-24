@@ -42,7 +42,6 @@ kms.digiboy.ir
 synology.me
 stat.atol.tech
 widget.intercom.io
-#pinterest.com
 st.aestatic.net
 ynuf.aliapp.org
 fourier.taobao.com
@@ -108,7 +107,10 @@ static.a.mts.ru
 1cdialog.com
 img.smi2.net
 static.smi2.net
-chat.mirtesen.ru
+code.jivosite.com
+static.cloudflareinsights.com
+stat.sputnik.ru
+prod.pinterest.global.map.fastly.net
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
@@ -121,6 +123,8 @@ cdn.plyr.io
 cdn.dodostatic.net
 cdn.pushwoosh.com
 cdn.krut-art.ru
+fscdn.eppo.cloud
+@@||cdnvideo.ru^
 @@||eaglecdn.com^
 @@||globalcdn.co^
 @@||mycdn.me^
@@ -210,3 +214,10 @@ cdn.krut-art.ru
 @@||mirtesen.ru^
 @@||mt.ru^
 @@||mtml.ru^
+@@||etpgpb.ru^
+@@||auto-messenger.ru^
+@@||ulogin.ru^
+@@||orgs.biz^
+@@||gosnadzor.ru^
+@@||ashmanov.com^
+@@||pinterest.com^
