@@ -93,7 +93,6 @@
 ||executivedaytona.com^
 ||expo-forum.net^
 ||fastfilestore.com^
-||fastly.net^
 ||fastsecurityup.com^
 ||fermazapoved.ru^
 ||fertnazapoved.ru^
