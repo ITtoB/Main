@@ -219,4 +219,4 @@ fscdn.eppo.cloud
 @@||orgs.biz^
 @@||gosnadzor.ru^
 @@||ashmanov.com^
-@@||pinterest.com^
+#@@||pinterest.com^
