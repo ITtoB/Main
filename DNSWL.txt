@@ -107,7 +107,6 @@ static.a.mts.ru
 api.a.mts.ru
 1cdialog.com
 code.jivosite.com
-static.cloudflareinsights.com
 stat.sputnik.ru
 adguardteam.github.io
 storonniki.er.ru
@@ -122,6 +121,9 @@ bitrix.info
 rtc-cloud.bitrix24.tech
 1cbit.kz
 1cbit.by
+nalog-nalog.ru
+armtek.by
+api.snapcraft.io
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
@@ -140,7 +142,7 @@ myworld.cdn-vk.net
 cdn4.telesco.pe
 cdn.viberu.ru
 cdn.troywell.org
-m1.openfpcdn.io
+cdn.amcharts.com
 @@||gcdn.co^
 @@||openfpcdn.io^
 @@||operacdn.com^
@@ -179,7 +181,7 @@ m1.openfpcdn.io
 @@||zoom.us^
 @@||keydisk.ru^
 @@||sberleasing.ru^
-@@||cdn.whatsapp.net^
+#@@||whatsapp.net^
 @@||19rusinfo.ru^
 @@||userapi.com^
 #@@||mail.ru^
@@ -252,3 +254,4 @@ m1.openfpcdn.io
 @@||bifit.com^
 @@||omni.ru^
 @@||skillbrains.com^
+@@||flypobeda.ru^
