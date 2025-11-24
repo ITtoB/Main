@@ -120,6 +120,8 @@ crl.digicert.cn
 bitrix.info
 1cv8update.com
 rtc-cloud.bitrix24.tech
+1cbit.kz
+1cbit.by
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 #vimeocdn.com
