@@ -114,6 +114,8 @@ livechatv2.chat2desk.com
 checkip.synology.com
 call.chatra.io
 nccchat.mosenergosbyt.ru
+fincalculator.ru
+telegram.me
 cdn.getkoala.com
 cdn.diginetica.net
 cdn-ru.bitrix24.ru
