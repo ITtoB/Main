@@ -255,3 +255,6 @@ rtbcdn.ru
 @@||oneme.ru^
 @@||max.ru^
 @@||vigo.one^
+@@||avito.ru^
+@@||wb.ru^
+@@||wildberries.ru^
