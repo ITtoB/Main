@@ -177,6 +177,7 @@ rtbcdn.ru
 @@||keydisk.ru^
 @@||sberleasing.ru^
 @@||whatsapp.net^
+@@||whatsapp.com^
 @@||19rusinfo.ru^
 @@||userapi.com^
 @@||dzen.ru^
