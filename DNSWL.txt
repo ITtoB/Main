@@ -9,6 +9,7 @@ metrika.yandex.ru
 push.yandex.ru
 yabs.yandex.ru
 yandex-pogoda.static-storage.net
+api.browser.yandex.net
 www.googletagmanager.com
 www.google.com
 accounts.google.com
@@ -251,3 +252,4 @@ rtbcdn.ru
 @@||cleverence.ru^
 @@||oneme.ru^
 @@||max.ru^
+@@||vigo.one^
