@@ -104,6 +104,7 @@ nalog-nalog.ru
 armtek.by
 api.snapcraft.io
 tsecurity.de
+test.rutube.ru
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 cdn.skillbox.pro
@@ -231,3 +232,5 @@ cdn.amcharts.com
 @@||flypobeda.ru^
 @@||brmtr.org^
 @@||changeip.com^
+@@||gge.ru^
+@@||t-static.ru^
