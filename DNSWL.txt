@@ -83,8 +83,6 @@ js.fprxnet.ws
 stats.myangular.life
 api.stiven-king.com
 api.kinogram.best
-static.a.mts.ru
-api.a.mts.ru
 1cdialog.com
 code.jivosite.com
 stat.sputnik.ru
@@ -252,6 +250,7 @@ rtbcdn.ru
 @@||gge.ru^
 @@||t-static.ru^
 @@||rarus-cloud.ru^
+@@||mts.ru
 @@||cleverence.ru^
 @@||oneme.ru^
 @@||max.ru^
