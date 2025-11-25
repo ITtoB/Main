@@ -105,6 +105,16 @@ armtek.by
 api.snapcraft.io
 tsecurity.de
 test.rutube.ru
+log.getadblock.com
+ping.getadblock.com
+web.popmechanic.ru
+tdesktop.telega.one
+livechatv2.chat2desk.com
+checkip.synology.com
+call.chatra.io
+nccchat.mosenergosbyt.ru
+cdn.getkoala.com
+cdn.diginetica.net
 cdn-ru.bitrix24.ru
 cdn.imnks.com
 cdn.skillbox.pro
@@ -123,6 +133,9 @@ cdn4.telesco.pe
 cdn.viberu.ru
 cdn.troywell.org
 cdn.amcharts.com
+rtbcdn.ru
+@@||fastcloudcdn.net^
+@@||mrgcdn.ru^
 @@||gcdn.co^
 @@||openfpcdn.io^
 @@||operacdn.com^
@@ -234,3 +247,5 @@ cdn.amcharts.com
 @@||changeip.com^
 @@||gge.ru^
 @@||t-static.ru^
+@@||rarus-cloud.ru^
+@@||cleverence.ru^
