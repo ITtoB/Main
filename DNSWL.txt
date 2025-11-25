@@ -113,7 +113,6 @@ livechatv2.chat2desk.com
 checkip.synology.com
 call.chatra.io
 nccchat.mosenergosbyt.ru
-max.ru
 cdn.getkoala.com
 cdn.diginetica.net
 cdn-ru.bitrix24.ru
@@ -251,3 +250,4 @@ rtbcdn.ru
 @@||rarus-cloud.ru^
 @@||cleverence.ru^
 @@||oneme.ru^
+@@||max.ru^
