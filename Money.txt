@@ -6,3 +6,4 @@
 @@||bybit-aws.com^
 @@||bycbe.com^
 @@||byapis.com^
+@@||forexpf.ru^
