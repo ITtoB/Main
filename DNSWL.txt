@@ -181,6 +181,7 @@ lafoy.ru
 2karandasha.ru
 medflex.ru
 www.doctis.ru
+voskhod.ru
 unisound.cdnvideo.ru
 cdn.bitrix24.ru
 cdn.selfgems.com
@@ -342,3 +343,4 @@ cdn.amcharts.com
 @@||agregatoreat.ru^
 @@||viber.com^
 @@||doctis.app^
+@@||r-19.ru^
