@@ -39,6 +39,7 @@ fourier.taobao.com
 docker.io
 ittob-home.duckdns.org
 ittob-mobile.duckdns.org
+checkip.dyndns.com
 agentplus.online
 agentplus.tech
 bk.ru
@@ -171,6 +172,16 @@ musify.su
 p.typekit.net
 www.digitalworldz.co.uk
 vkontakte.ru
+gas-kvas.com
+zastavki.gas-kvas.com
+wp-s.ru
+df.wp-s.ru
+stream.newradio.ru
+lafoy.ru
+2karandasha.ru
+medflex.ru
+www.doctis.ru
+unisound.cdnvideo.ru
 cdn.bitrix24.ru
 cdn.selfgems.com
 cdn.plyr.io
@@ -317,6 +328,7 @@ cdn.amcharts.com
 @@||premier.one^
 @@||delicloud.com^
 @@||ktalk.ru^
+@@||ktalk.host^
 @@||pro32connect.ru^
 @@||dadata.ru^
 @@||pfrf.ru^
@@ -326,3 +338,7 @@ cdn.amcharts.com
 @@||mts-link.ru^
 @@||kupibilet.ru^
 @@||booking.com^
+@@||tutu.ru^
+@@||agregatoreat.ru^
+@@||viber.com^
+@@||doctis.app^
