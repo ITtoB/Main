@@ -311,7 +311,7 @@ cdn.amcharts.com
 @@||gge.ru^
 @@||t-static.ru^
 @@||rarus-cloud.ru^
-@@||mts.ru
+@@||mts.ru^
 @@||cleverence.ru^
 @@||oneme.ru^
 @@||max.ru^
