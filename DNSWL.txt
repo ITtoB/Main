@@ -164,6 +164,15 @@ oren-orient.narod.ru
 sibsau.ru
 www.sibsau.ru
 a2b2.ru
+vtemu.by
+mur-mur.top
+papik.pro
+musify.su
+p.typekit.net
+www.digitalworldz.co.uk
+vkontakte.ru
+cdn.bitrix24.ru
+cdn.selfgems.com
 cdn.plyr.io
 cdn.dodostatic.net
 cdn.pushwoosh.com
@@ -314,3 +323,6 @@ cdn.amcharts.com
 @@||s7cdn.online^
 @@||dadata.ru^
 @@||grsu.by^
+@@||mts-link.ru^
+@@||kupibilet.ru^
+@@||booking.com^
