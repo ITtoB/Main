@@ -182,6 +182,17 @@ lafoy.ru
 medflex.ru
 www.doctis.ru
 voskhod.ru
+mantram.online
+mantram.megapbx.ru
+fonts.advstatic.ru
+lib.usedesk.ru
+img.fix-price.com
+ramfy.ru
+pta.ramfy.ru
+newradio.ru
+hls.newradio.ru
+artinvestment.ru
+static.insales-cdn.com
 unisound.cdnvideo.ru
 cdn.bitrix24.ru
 cdn.selfgems.com
@@ -344,3 +355,4 @@ cdn.amcharts.com
 @@||viber.com^
 @@||doctis.app^
 @@||r-19.ru^
+@@||esphere.ru^
