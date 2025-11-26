@@ -191,7 +191,8 @@ ramfy.ru
 pta.ramfy.ru
 newradio.ru
 hls.newradio.ru
-artinvestment.ru
+t-j-core.tinkoffjournal.ru
+opis-cdn.tinkoffjournal.ru
 static.insales-cdn.com
 unisound.cdnvideo.ru
 cdn.bitrix24.ru
