@@ -1,4 +1,4 @@
-@@id.rambler.ru
+@@|id.rambler.ru
 t.me
 1drv.ms
 crl.microsoft.com
