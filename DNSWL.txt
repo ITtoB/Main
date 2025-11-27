@@ -1,4 +1,4 @@
-@@|id.rambler.ru
+id.rambler.ru
 t.me
 1drv.ms
 crl.microsoft.com
@@ -207,6 +207,12 @@ tg.dev
 oauth.tg.dev
 tilda.ws
 doczilla.pro
+sky.pro
+legalacts.ru
+autosteklo.ru
+lmusic.kz
+disco-polo.eu
+cdn.webpushr.com
 cdn.rigla.ru
 cdn.botfaqtor.ru
 cdn.gbooking.ru
@@ -267,6 +273,17 @@ razbor66.ru
 info.weather.yandex.net
 mechatronics.by
 forum.mechatronics.by
+mp3-search.su
+muzvibe.org
+jpg.muzvibe.org
+rux.muzmo.cc
+criteo.com
+www.criteo.com
+enote.cloud
+avtoportal.by
+pereverstal.by
+satom.ru
+images.satom.ru
 cdn.izap24.ru
 cdn.tolstoycomments.com
 web-client.jmtcdn.ru
@@ -457,3 +474,5 @@ neo.tildacdn.com
 @@||grizly.club^
 @@||hh.ru^
 @@||1c-cabinet.ru^
+@@||pogoda7.ru^
+@@||openstreetmap.org^
