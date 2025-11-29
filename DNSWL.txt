@@ -350,7 +350,6 @@ rustehnika.ru
 www.rustehnika.ru
 buh.ru
 static.static-food-2.ru
-parts-soft.ru
 all-world-cars.com
 www.all-world-cars.com
 gradmsk.ru
@@ -452,7 +451,7 @@ img.razrisyika.ru
 moedelo.org
 www.moedelo.org
 allorigins.win
-
+perevozka24.com
 cdn.elpub.ru
 cdn.hextom.com
 cdn.esap.ru
@@ -733,3 +732,5 @@ neo.tildacdn.com
 @@||1c.ai^
 @@||bitrix24.tech^
 @@||scloud.ru^
+@@||parts-soft.ru^
+@@||rarus.ru^
