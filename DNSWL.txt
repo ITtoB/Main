@@ -731,3 +731,4 @@ neo.tildacdn.com
 @@||ivi.ru^
 @@||creazilla.com^
 @@||bitrix.info^
+@@||1c.ai^
