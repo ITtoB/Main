@@ -56,7 +56,6 @@ list.ru
 myexternalip.com
 tender.pro
 slb.bitrix24.tech
-webrtc.bitrix.info
 damol.pro
 mbs-mr.ucoz.ru
 d-assets.2gis.ru
@@ -113,7 +112,6 @@ img.24smi.info
 sdk.justpush.ai
 ocsp.digicert.cn
 crl.digicert.cn
-bitrix.info
 1cv8update.com
 rtc-cloud.bitrix24.tech
 1cbit.kz
@@ -732,3 +730,4 @@ neo.tildacdn.com
 @@||redd.it^
 @@||ivi.ru^
 @@||creazilla.com^
+@@||bitrix.info^
