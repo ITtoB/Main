@@ -55,7 +55,6 @@ bk.ru
 list.ru
 myexternalip.com
 tender.pro
-slb.bitrix24.tech
 damol.pro
 mbs-mr.ucoz.ru
 d-assets.2gis.ru
@@ -113,7 +112,6 @@ sdk.justpush.ai
 ocsp.digicert.cn
 crl.digicert.cn
 1cv8update.com
-rtc-cloud.bitrix24.tech
 1cbit.kz
 1cbit.by
 nalog-nalog.ru
@@ -379,7 +377,6 @@ sudact.ru
 delfin12.ru
 izap24.ru
 daisy.ubuntu.com
-site-cloud-files.bitrix24.tech
 esap.ru
 etcher.balena.io
 arclight.vimeo.com
@@ -454,6 +451,8 @@ razrisyika.ru
 img.razrisyika.ru
 moedelo.org
 www.moedelo.org
+allorigins.win
+
 cdn.elpub.ru
 cdn.hextom.com
 cdn.esap.ru
@@ -732,3 +731,5 @@ neo.tildacdn.com
 @@||creazilla.com^
 @@||bitrix.info^
 @@||1c.ai^
+@@||bitrix24.tech^
+@@||scloud.ru^
