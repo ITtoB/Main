@@ -465,6 +465,10 @@ author.today
 cm.author.today
 kinoserial.online
 lordfilmds.online
+test.showvid.ws
+detkisait.ru
+hitmos.me
+nukadeti.ru
 cdn.namelazz.com
 cdn.elpub.ru
 cdn.hextom.com
@@ -754,3 +758,8 @@ neo.tildacdn.com
 @@||static.dolyame.ru^
 @@||amocrm.ru^
 @@||kion.ru^
+@@||zvu4no.org^
+@@||hitmotop.com^
+@@||pinkamuz.pro^
+@@||allowcopy.pro^
+@@||troywell.org^
