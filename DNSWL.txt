@@ -22,8 +22,10 @@ webattach.mail.yandex.net
 http-check-headers.yandex.ru
 info.weather.yandex.net
 id.yastatic.net
+translate.yastatic.net
 granny.yastatic.net
 travel.yastatic.net
+autoru.static-storage.net
 www.googletagmanager.com
 www.google.com
 accounts.google.com
@@ -576,6 +578,19 @@ www.driverscape.com
 vkfull.ru
 mamadeti.ru
 smotri-serial.online
+dropmefiles.com
+vypiska-nalog.com
+lessbuttons.com
+profkadr.beget.tech
+meteovesti.ru
+www.meteovesti.ru
+medaboutme.ru
+arghome.ru
+dvaveka.ru
+www.dvaveka.ru
+etomesto.ru
+www.etomesto.ru
+zvetnoe.ru
 
 pxcdn.bigmethods.ru
 cdn.sprosivracha.com
@@ -955,3 +970,11 @@ neo.tildacdn.com
 @@||medelement.com^
 @@||rigla.ru^
 @@||drivemusic.me^
+@@||site-chat.me^
+@@||verbox.ru^
+@@||burmistr.ru^
+@@||wabco-auto.com^
+@@||eberspaecher.com^
+@@||u-team.by^
+@@||honda-fit.ru^
+@@||worldcar.ru^
