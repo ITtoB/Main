@@ -1051,6 +1051,6 @@ neo.tildacdn.com
 @@||perfluence.net^
 @@||anycomment.io^
 @@||khsu.ru^
-@@|||irgups.ru^
+@@||irgups.ru^
 @@||sputnik.kg^
 @@||semena-tut.ru^
