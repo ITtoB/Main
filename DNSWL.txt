@@ -619,6 +619,8 @@ panline.pro
 www.panline.pro
 lstk-group.pro
 krasnoeibeloe.servicecdn.ru
+kumtor.kg
+www.kumtor.kg
 pxcdn.bigmethods.ru
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
