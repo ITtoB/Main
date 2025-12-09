@@ -1057,3 +1057,4 @@ neo.tildacdn.com
 @@||sputnik.kg^
 @@||semena-tut.ru^
 @@||sravni.ru^
+@@||strm.yandex.net^
