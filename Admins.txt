@@ -1,0 +1,14 @@
+raw.githubusercontent.com
+docker.io
+ittob-home.duckdns.org
+ittob-mobile.duckdns.org
+checkip.dyndns.com
+synology.me
+ifconfig.me
+myexternalip.com
+malware-filter.gitlab.io
+big.oisd.nl
+adguardteam.github.io
+checkip.synology.com
+@@||dynu.com^
+@@||github.com^
