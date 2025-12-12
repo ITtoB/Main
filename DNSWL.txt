@@ -612,6 +612,10 @@ edauto.shop
 specportal.pro
 e.tb.cn
 www.k-max.name
+gfi.ai
+mega.nz
+eu.static.mega.co.nz
+g.api.mega.co.nz
 pxcdn.bigmethods.ru
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
@@ -1041,6 +1045,8 @@ neo.tildacdn.com
 @@||anycomment.io^
 @@||khsu.ru^
 @@||irgups.ru^
+@@||userstorage.mega.co.nz^
+
 @@||sputnik.kg^
 @@||semena-tut.ru^
 @@||sravni.ru^
