@@ -10,5 +10,6 @@ malware-filter.gitlab.io
 big.oisd.nl
 adguardteam.github.io
 checkip.synology.com
+xpenology.tech
 @@||dynu.com^
 @@||github.com^
