@@ -555,6 +555,7 @@ beloris.ru
 static.beloris.ru
 rap.skcrtxr.com
 ali.click
+alitems.com
 tehnologia.info
 www.tehnologia.info
 driverscape.com
@@ -1046,7 +1047,7 @@ neo.tildacdn.com
 @@||khsu.ru^
 @@||irgups.ru^
 @@||userstorage.mega.co.nz^
-
+@@||vectorstock.com^
 @@||sputnik.kg^
 @@||semena-tut.ru^
 @@||sravni.ru^
