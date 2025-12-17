@@ -618,6 +618,8 @@ mega.nz
 eu.static.mega.co.nz
 g.api.mega.co.nz
 pxcdn.bigmethods.ru
+windowshelp.top
+link.service.citilink.ru
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
 cdn.namelazz.com
