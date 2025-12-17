@@ -13,5 +13,6 @@ checkip.synology.com
 xpenology.tech
 ip-api.com
 digiboy.ir
+www.digiboy.ir
 @@||dynu.com^
 @@||github.com^
