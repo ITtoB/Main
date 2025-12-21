@@ -7,6 +7,7 @@ synology.me
 ifconfig.me
 myexternalip.com
 malware-filter.gitlab.io
+bitbucket.org
 big.oisd.nl
 adguardteam.github.io
 checkip.synology.com
