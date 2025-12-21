@@ -14,5 +14,7 @@ xpenology.tech
 ip-api.com
 digiboy.ir
 www.digiboy.ir
+@@||synology.cn^
+@@||xpenology.tech^
 @@||dynu.com^
 @@||github.com^
