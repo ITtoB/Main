@@ -5,3 +5,4 @@ api.kinogram.best
 @@||github.io^
 @@||comss.ru^
 @@||gtorrent.cc^
+@@||upload.ee^
