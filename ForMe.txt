@@ -1,6 +1,6 @@
 api.stiven-king.com
 api.kinogram.best
-discord.com
+@@||discord.com
 @@||raw.githubusercontent.com^
 @@||github.com^
 @@||github.io^
