@@ -13,11 +13,10 @@ adguardteam.github.io
 checkip.synology.com
 xpenology.tech
 ip-api.com
-digiboy.ir
-www.digiboy.ir
 checkip.dyndns.org
 checkip.synology.com
 @@||synology.cn^
 @@||xpenology.tech^
 @@||dynu.com^
 @@||github.com^
+@@||digiboy.ir^
