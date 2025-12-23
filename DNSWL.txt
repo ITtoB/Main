@@ -620,6 +620,7 @@ g.api.mega.co.nz
 pxcdn.bigmethods.ru
 windowshelp.top
 link.service.citilink.ru
+websdk.cherrix.co
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
 cdn.namelazz.com
