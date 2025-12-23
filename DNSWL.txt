@@ -1056,3 +1056,4 @@ neo.tildacdn.com
 @@||strm.yandex.net^
 @@||stripe.com^
 @@||stripe.network^
+@@||tappaysdk.com^
