@@ -1054,3 +1054,5 @@ neo.tildacdn.com
 @@||semena-tut.ru^
 @@||sravni.ru^
 @@||strm.yandex.net^
+@@||stripe.com^
+@@||stripe.network^
