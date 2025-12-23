@@ -621,7 +621,6 @@ pxcdn.bigmethods.ru
 windowshelp.top
 link.service.citilink.ru
 js.tappaysdk.com
-websdk.cherrix.co
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
 cdn.namelazz.com
@@ -1058,3 +1057,4 @@ neo.tildacdn.com
 @@||strm.yandex.net^
 @@||stripe.com^
 @@||stripe.network^
+@@||cherrix.co^
