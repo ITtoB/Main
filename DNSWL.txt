@@ -622,6 +622,8 @@ windowshelp.top
 link.service.citilink.ru
 js.tappaysdk.com
 www.iplocation.net
+pixeldrain.com
+mrtexpert.ru
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
 cdn.namelazz.com
@@ -1059,3 +1061,4 @@ neo.tildacdn.com
 @@||stripe.com^
 @@||stripe.network^
 @@||cherrix.co^
+@@||my.mail.ru^
