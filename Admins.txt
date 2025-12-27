@@ -20,3 +20,4 @@ checkip.synology.com
 @@||dynu.com^
 @@||github.com^
 @@||digiboy.ir^
+@@||soft-load.eu^
