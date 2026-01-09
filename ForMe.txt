@@ -1,5 +1,6 @@
-api.stiven-king.com
-api.kinogram.best
+drive.usercontent.google.com
+p.lumex.space
+api.poiskkino.dev
 @@||discord.com
 @@||raw.githubusercontent.com^
 @@||github.com^
@@ -7,3 +8,4 @@ api.kinogram.best
 @@||comss.ru^
 @@||gtorrent.cc^
 @@||upload.ee^
+@@||svetacdn.in^
