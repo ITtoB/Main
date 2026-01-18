@@ -21,6 +21,7 @@ csp.yandex.net
 webattach.mail.yandex.net
 http-check-headers.yandex.ru
 info.weather.yandex.net
+ya.cc
 id.yastatic.net
 translate.yastatic.net
 granny.yastatic.net
