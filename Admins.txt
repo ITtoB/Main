@@ -15,7 +15,6 @@ xpenology.tech
 ip-api.com
 checkip.dyndns.org
 checkip.synology.com
-teletype.in
 @@||synology.cn^
 @@||xpenology.tech^
 @@||dynu.com^
