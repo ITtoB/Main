@@ -60,7 +60,7 @@ tender.pro
 damol.pro
 d-assets.2gis.ru
 convertio.co
-akashi.vk-portal.net
+stats.vk-portal.net
 atol.online
 orionnet.online
 sirius.online
