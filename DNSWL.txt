@@ -67,7 +67,6 @@ ipanda.pro
 tests24.su
 static.rambler.ru
 yadi.sk
-captive.keenetic.ru
 downloads.vivaldi.com
 d.adguard-dns.com
 www.youtube.com
@@ -697,6 +696,8 @@ neo.tildacdn.com
 @@||keenetic.link^
 @@||keenetic.io^
 @@||keenetic.cloud^
+@@||keenetic.ru^
+@@||keenetic.com^
 @@||netcraze.link^
 @@||netcraze.cloud^
 @@||kaspersky-labs.com^
