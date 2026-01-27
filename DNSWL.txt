@@ -627,6 +627,7 @@ mrtexpert.ru
 www.rpt.ru.com
 dns24.online
 gpb.pirson.tech
+api.pirson.tech
 cdn.amplitude.com
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
