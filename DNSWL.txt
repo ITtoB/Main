@@ -1069,3 +1069,4 @@ neo.tildacdn.com
 @@||cherrix.co^
 @@||my.mail.ru^
 @@||kaspersky.com^
+@@||qwen.ai^
