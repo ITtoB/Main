@@ -1070,3 +1070,4 @@ neo.tildacdn.com
 @@||my.mail.ru^
 @@||kaspersky.com^
 @@||qwen.ai^
+@@||keenetic.pro^
