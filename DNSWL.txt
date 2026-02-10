@@ -699,12 +699,14 @@ neo.tildacdn.com
 @@||keenetic.cloud^
 @@||keenetic.ru^
 @@||keenetic.com^
+@@||keenetic.net^
 @@||netcraze.pro^
 @@||netcraze.link^
 @@||netcraze.cloud^
 @@||netcraze.io^
 @@||netcraze.ru^
 @@||netcraze.com^
+@@||netcraze.net^
 @@||kaspersky-labs.com^
 @@||windowsupdate.com^
 @@||globalsign.com^
