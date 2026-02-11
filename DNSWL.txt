@@ -46,6 +46,7 @@ limg.imgsmail.ru
 filin.mail.ru
 my.mail.ru
 privacy-cs.mail.ru
+trk.mail.ru
 kms.digiboy.ir
 stat.atol.tech
 widget.intercom.io
