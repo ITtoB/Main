@@ -1,3 +1,7 @@
+update-dra.platform.hicloud.com
+sntr.avito.ru
+stats.avito.ru
+data-e5.brmtr.org
 ||0bitcoins.com^
 ||138kasko.ru^
 ||1994collective.com^
