@@ -1,7 +1,7 @@
 drive.usercontent.google.com
 p.lumex.space
 api.poiskkino.dev
-@@||discord.com
+@@||discord.com^
 @@||raw.githubusercontent.com^
 @@||github.com^
 @@||github.io^
