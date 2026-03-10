@@ -1083,3 +1083,4 @@ neo.tildacdn.com
 @@||habrahabr.ru^
 @@||timeweb.cloud^
 @@||dadata.ru^
+@@||eag.space^
