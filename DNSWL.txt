@@ -629,6 +629,8 @@ dns24.online
 gpb.pirson.tech
 api.pirson.tech
 static2.tinkoffjournal.ru
+chat.z.ai
+z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
