@@ -21,6 +21,7 @@ csp.yandex.net
 webattach.mail.yandex.net
 http-check-headers.yandex.ru
 info.weather.yandex.net
+log.api-maps.yandex.ru
 ya.cc
 id.yastatic.net
 translate.yastatic.net
@@ -1087,3 +1088,4 @@ neo.tildacdn.com
 @@||timeweb.cloud^
 @@||dadata.ru^
 @@||eag.space^
+@@||bugsnag.com^
