@@ -22,6 +22,7 @@ webattach.mail.yandex.net
 http-check-headers.yandex.ru
 info.weather.yandex.net
 log.api-maps.yandex.ru
+dns.yandex.ru
 ya.cc
 id.yastatic.net
 translate.yastatic.net
