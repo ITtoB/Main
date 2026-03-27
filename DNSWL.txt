@@ -1090,3 +1090,4 @@ neo.tildacdn.com
 @@||dadata.ru^
 @@||eag.space^
 @@||bugsnag.com^
+@@||smbn.ru^
