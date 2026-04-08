@@ -710,7 +710,7 @@ data-e5.brmtr.org
 ||hosted-by-vdsina.ru^
 ||hostinfo-service.info^
 ||hostroids.com^
-||hostwindsdns.сom^
+||hostwindsdns.com^
 ||hoteldinamo.com^
 ||hotporntv.net^
 ||hotrocce.xin^
@@ -966,7 +966,7 @@ data-e5.brmtr.org
 ||mysterykamchatka.ru^
 ||mytho.su^
 ||myupload.net^
-||myvnc.соm^
+||myvnc.cоm^
 ||mywebcommunity.org^
 ||mywire.org^
 ||myxokgc.xyz^
@@ -1045,7 +1045,7 @@ data-e5.brmtr.org
 ||onesoftware.info^
 ||online-channel.online^
 ||onlinelive.info^
-||onmbvх.com^
+||onmbvx.com^
 ||onsk.dk^
 ||onticweb.com^
 ||ooguy.com^
@@ -1438,7 +1438,7 @@ data-e5.brmtr.org
 ||teiehram.org^
 ||telecom-connect.online^
 ||telecomz.ru^
-||telegram.me/ahnadar^
+||telegram.me^
 ||telehraf.com^
 ||temnayamashina.com^
 ||temp-xy.com^
@@ -1664,7 +1664,7 @@ data-e5.brmtr.org
 ||xn--80aay4abdedf0j.xn--p1ai^
 ||xn--80akaaahlm1aadgc3a5j.xn--p1ai^
 ||xn--8sbac7avkf0bv.xn--p1ai^
-||xn—e1ajbcejcefx.xn--p1ai^
+||xn--e1ajbcejcefx.xn--p1ai^
 ||xnxx.galaxias.cc^
 ||xoomep1.com^
 ||xoomep2.com^
