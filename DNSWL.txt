@@ -1092,3 +1092,5 @@ neo.tildacdn.com
 @@||bugsnag.com^
 @@||smbn.ru^
 @@||emcd.io^
+@@||tinsurance.ru^
+@@||google.de^
