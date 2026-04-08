@@ -966,7 +966,7 @@ data-e5.brmtr.org
 ||mysterykamchatka.ru^
 ||mytho.su^
 ||myupload.net^
-||myvnc.cоm^
+||myvnc.com^
 ||mywebcommunity.org^
 ||mywire.org^
 ||myxokgc.xyz^
