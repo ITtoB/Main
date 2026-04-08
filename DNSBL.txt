@@ -1192,8 +1192,6 @@ data-e5.brmtr.org
 ||rasa.io^
 ||ravinads.com^
 ||ravisrq.xyz^
-||raw.githubusercontent.com^
-||rawgithubcontent.ru^
 ||raykomhoz.ru^
 ||rcdoncu1905.duckdns.org^
 ||rdcservice.org^
@@ -1629,7 +1627,6 @@ data-e5.brmtr.org
 ||windowsextupdates.com^
 ||winformation.ru^
 ||winlocker.ru^
-||winlocker-site.github.io^
 ||winrar64.ru^
 ||winsoftzone.com^
 ||wiresguard.com^
