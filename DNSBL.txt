@@ -1796,7 +1796,6 @@ data-e5.brmtr.org
 ||cc^
 ||it^
 ||cn^
-||co.*^
 ||za^
 ||top^
 ||in^
