@@ -10,4 +10,3 @@
 @@||investing.com^
 @@||artinvestment.ru^
 @@||2bitcoins.ru^
-@@||cloudfront.net^
