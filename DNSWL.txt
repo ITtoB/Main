@@ -632,6 +632,7 @@ gpb.pirson.tech
 api.pirson.tech
 static2.tinkoffjournal.ru
 chat.z.ai
+static.webinar.ru
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
@@ -1094,3 +1095,5 @@ neo.tildacdn.com
 @@||emcd.io^
 @@||tinsurance.ru^
 @@||google.de^
+@@||teletype.in^
+@@||qwased.xyz^
