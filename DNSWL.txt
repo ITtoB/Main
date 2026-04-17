@@ -173,7 +173,6 @@ lib.usedesk.ru
 img.fix-price.com
 ramfy.ru
 pta.ramfy.ru
-t-j-core.tinkoffjournal.ru
 goodmod.ru
 checko.ru
 ipinfo.app
@@ -630,7 +629,6 @@ www.rpt.ru.com
 dns24.online
 gpb.pirson.tech
 api.pirson.tech
-static2.tinkoffjournal.ru
 chat.z.ai
 static.webinar.ru
 z-cdn.chatglm.cn
@@ -658,7 +656,6 @@ img.joomcdn.net
 cdn.gto.ru
 cdn1.moe.video
 st.okcdn.ru
-opis-cdn.tinkoffjournal.ru
 static.insales-cdn.com
 unisound.cdnvideo.ru
 cdn.bitrix24.ru
@@ -1097,3 +1094,4 @@ neo.tildacdn.com
 @@||google.de^
 @@||teletype.in^
 @@||qwased.xyz^
+@@||tinkoffjournal.ru^
