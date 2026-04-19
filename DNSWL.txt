@@ -1095,3 +1095,4 @@ neo.tildacdn.com
 @@||teletype.in^
 @@||qwased.xyz^
 @@||tinkoffjournal.ru^
+@@||telegra.ph^
