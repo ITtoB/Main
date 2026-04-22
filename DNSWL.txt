@@ -1096,3 +1096,6 @@ neo.tildacdn.com
 @@||qwased.xyz^
 @@||tinkoffjournal.ru^
 @@||telegra.ph^
+@@||gfi-software.uz^
+@@||baikalsr-mailer.ru^
+@@||contentroute.icu^
