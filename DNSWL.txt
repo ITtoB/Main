@@ -1099,3 +1099,4 @@ neo.tildacdn.com
 @@||gfi-software.uz^
 @@||baikalsr-mailer.ru^
 @@||contentroute.icu^
+@@||carrotquest.help^
