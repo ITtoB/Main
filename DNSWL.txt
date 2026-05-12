@@ -1100,3 +1100,4 @@ neo.tildacdn.com
 @@||baikalsr-mailer.ru^
 @@||contentroute.icu^
 @@||carrotquest.help^
+@@||belmash.ru^
