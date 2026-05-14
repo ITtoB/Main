@@ -1102,3 +1102,4 @@ neo.tildacdn.com
 @@||carrotquest.help^
 @@||belmash.ru^
 @@||reg.ru^
+@@||artfut.com^
