@@ -109,10 +109,12 @@ data-e5.brmtr.org
 ||allreleases.ru^
 ||almaz-aero.site^
 ||alphaheat.pl^
+||altai-krai.com^
 ||alternativa123.ru^
 ||amazoncdns.com^
 ||amn.net^
 ||ampolice.org^
+||analize-team.help^
 ||analytisec.space^
 ||anc-media.s3.amazonaws.com^
 ||andreiushakov.ru^
@@ -137,6 +139,7 @@ data-e5.brmtr.org
 ||apisolving.com^
 ||apothfya.qpon^
 ||app.blance.workers.dev^
+||appcleaner.it.com^
 ||appearahead.com^
 ||apprater.net^
 ||apstori.ru^
@@ -194,6 +197,7 @@ data-e5.brmtr.org
 ||backbx.shop^
 ||backconnect.org^
 ||backupdailyawss.s3.us-east-1.amazonaws.com^
+||badgodago.com^
 ||bafybeie52e6zbmarzitwsiggtg4qpmrbek2wovzs2tsxv7brqysbbl62gm.ipfs.w3s.link^
 ||bafybeihcr7wnyfhbzcr4cibteqb5frfny3bjzavywphousve5ddfah6bry.ipfs.w3s.link^
 ||bajajallianz.in.net^
@@ -215,6 +219,7 @@ data-e5.brmtr.org
 ||be-blo.ru^
 ||beemooshka-v1.art^
 ||beget.ru^
+||belgorod-energo.net^
 ||beltifay.com^
 ||berend.org^
 ||beyxm.xyz^
@@ -313,6 +318,7 @@ data-e5.brmtr.org
 ||carprlce.ru^
 ||carptrvo.shop^
 ||carriertrucks.com^
+||carrolc.com^
 ||casacam.net^
 ||casszroj.forum^
 ||catachq.xyz^
@@ -379,6 +385,7 @@ data-e5.brmtr.org
 ||cloudfiles001.com^
 ||cloudflaresrv.com^
 ||cloudfrontsrv.com^
+||cloud-home.casa^
 ||cloudinary.com^
 ||cloudinor.com^
 ||cloud-ip.cc^
@@ -589,9 +596,11 @@ data-e5.brmtr.org
 ||eliskavaea.cz^
 ||eliteheirs.org^
 ||ellipmea.top^
+||email-file.info^
 ||email-informer.ru^
 ||email-office.ru^
 ||emailon.ru^
+||e-marketdrive.ru^
 ||emec.su^
 ||emelenalike.com^
 ||emezonhe.me^
@@ -600,6 +609,7 @@ data-e5.brmtr.org
 ||emuvuzarern.info^
 ||encorebrands.info^
 ||enermax-com.cc^
+||engels-prom.email^
 ||enreqflj.forum^
 ||entdeucation.com^
 ||epidebg.top^
@@ -639,6 +649,7 @@ data-e5.brmtr.org
 ||fertnazapoved.ru^
 ||ferzja.xyz^
 ||fetaokt.xyz^
+||ffsmoc.com^
 ||figueqhk.xin^
 ||file-bazar.com^
 ||filebulldogs.com^
@@ -650,6 +661,7 @@ data-e5.brmtr.org
 ||files.catbox.moe^
 ||filmcrewnepal.com^
 ||financial-executive.com^
+||findabearq.com^
 ||firebasestorage.googleapis.com^
 ||fireqk.top^
 ||firzjogp.xyz^
@@ -716,7 +728,9 @@ data-e5.brmtr.org
 ||geoplugin.net^
 ||germanywork.org^
 ||getenjoyment.net^
+||getfilesfaster.com^
 ||getshared.com^
+||ggrheicuye.com^
 ||ghogqcav.xyz^
 ||giize.com^
 ||gimnazija.org^
@@ -803,6 +817,7 @@ data-e5.brmtr.org
 ||hoteldinamo.com^
 ||hotporntv.net^
 ||hotrocce.xin^
+||hr-resourse.com^
 ||htsfhtdrjbyy1bgxbv.cfd^
 ||hubet88.name^
 ||huzfs.com^
@@ -857,15 +872,19 @@ data-e5.brmtr.org
 ||ipcor.ru^
 ||iplis.ru^
 ||ipscoredns.com^
+||ironshieldsecurity.space^
 ||irrbi.xyz^
 ||iscouzfya.top^
 ||iss-tass.com^
+||itbase-soft.store^
+||itflow-engine.com^
 ||it-loms.ru^
 ||it-pips.ru^
 ||j8k9lxds4-p1q6.ru^
 ||jae888.com^
 ||jaizmf.top^
 ||jbfrost.live^
+||jdjj.cc^
 ||jefebusyness.net^
 ||jethropc.com^
 ||jianyun.com^
@@ -880,13 +899,17 @@ data-e5.brmtr.org
 ||jump-finance.tech^
 ||jungutah.com^
 ||jurasudfoot.com^
+||justovertroo.com^
 ||k1j9p4-t5q3.ru^
+||kaliningrad-gorod.net^
 ||karma0.xyz^
 ||katzstealer.com^
 ||katz-stealer.com^
+||kavfs-update.cloud^
 ||keevg.top^
 ||kerna.org^
 ||kgauditcheck.com^
+||khabarovsk-krai.com^
 ||khitrayalisitsa.com^
 ||khoroshayamych.com^
 ||kia-almotores.s3.amazonaws.com^
@@ -907,7 +930,10 @@ data-e5.brmtr.org
 ||kozow.com^
 ||krasnayastena.com^
 ||krondez.com^
+||ksc-update.com^
 ||ktx.uk.com^
+||kursk-network.net^
+||kursk-prom.com^
 ||kuwtpt.xyz^
 ||kvr.uk.com^
 ||kwazindernuren.com^
@@ -976,6 +1002,7 @@ data-e5.brmtr.org
 ||madebysbk.com^
 ||magneri.pics^
 ||magnitgroup.com^
+||magnitogorsk-mash.net^
 ||mahjongtiles.it.com^
 ||mail.center-mail.ru^
 ||mailboxarea.cloud^
@@ -991,6 +1018,7 @@ data-e5.brmtr.org
 ||maroui.xyz^
 ||marsefx.top^
 ||masor.xyz^
+||master-cloud.team^
 ||mastersharks.com^
 ||mastersync.ru^
 ||mastwin.in^
@@ -1046,6 +1074,7 @@ data-e5.brmtr.org
 ||mixvibe.net^
 ||miyelv.xyz^
 ||mkitai.cn^
+||mlcrosoft.asia^
 ||mocadia.com^
 ||modaaura.store^
 ||moeodincovo.com^
@@ -1053,6 +1082,7 @@ data-e5.brmtr.org
 ||mojavemassageandwellness.com^
 ||monbd.xyz^
 ||mongo-health.ru^
+||monta-s-s.ru^
 ||monteyh.xyz^
 ||monxxb.xyz^
 ||mooo.com^
@@ -1158,10 +1188,12 @@ data-e5.brmtr.org
 ||oblieg.xyz^
 ||obmen-faylami.com^
 ||obshchiye-resursy.com^
+||obsidianshield.space^
 ||occyxmwe.asia^
 ||office-account.ru^
 ||office-confirm.com^
 ||office-email.ru^
+||office-lexware.org^
 ||offices-analytics.com^
 ||officesync.ru^
 ||oicm.org^
@@ -1183,6 +1215,7 @@ data-e5.brmtr.org
 ||onsk.dk^
 ||onticweb.com^
 ||ooguy.com^
+||oone8de.cn^
 ||opalxrr.xyz^
 ||opcez.xyz^
 ||open883.net^
@@ -1254,6 +1287,7 @@ data-e5.brmtr.org
 ||pickpro.org^
 ||pickupweb.me^
 ||pictuqyr.qpon^
+||picture-boxing.com^
 ||piczly.com^
 ||piejfw.top^
 ||pimoart.net^
@@ -1288,6 +1322,7 @@ data-e5.brmtr.org
 ||prezud.top^
 ||prickaz.biz^
 ||primakovreadings.info^
+||primeinfosec.space^
 ||printperfecto.org^
 ||privypbomg.top^
 ||prize-wildberries.online^
@@ -1422,6 +1457,7 @@ data-e5.brmtr.org
 ||russiatimes.info^
 ||ruzeda.com^
 ||rvthereyet.com^
+||ryazan-gorod.com^
 ||rzchi.duckdns.org^
 ||rzhd.org^
 ||s3.us-east-2.amazonaws.com^
@@ -1439,6 +1475,7 @@ data-e5.brmtr.org
 ||samogony.com^
 ||samosol.com^
 ||sanchaar.net^
+||saratov-net.com^
 ||sauselid.ru^
 ||say2me.s3.amazonaws.com^
 ||sber-cloud.info^
@@ -1474,6 +1511,7 @@ data-e5.brmtr.org
 ||sfrclak.com^
 ||shaqgn.xyz^
 ||sharecodepro.com^
+||shavezy.com^
 ||shawq.xyz^
 ||shaypy.xyz^
 ||shet0ldmeshewas12.uno^
@@ -1485,6 +1523,7 @@ data-e5.brmtr.org
 ||shop-discount.xyz^
 ||shopdns.ru^
 ||shuiqianyeting.com^
+||shujiebao.site^
 ||shutss.com^
 ||shutvg.xyz^
 ||sibbss.com^
@@ -1519,6 +1558,7 @@ data-e5.brmtr.org
 ||solution-itspace.online^
 ||sourjpa.beer^
 ||sovra.site^
+||spb-energo.net^
 ||speedhouseoman.com^
 ||spirits-station.fr^
 ||splizl.xyz^
@@ -1546,6 +1586,8 @@ data-e5.brmtr.org
 ||static.microsoft^
 ||static-content.strangled.net^
 ||statusupport.org^
+||stavropol-gorod.net^
+||stavropol-net.com^
 ||steamcommunity.com^
 ||steljg.shop^
 ||sti-kg.com^
@@ -1553,6 +1595,7 @@ data-e5.brmtr.org
 ||stisfmye.xyz^
 ||stolewnica.ru^
 ||stomrnd.xyz^
+||storage-center24.com^
 ||store3.gofile.io^
 ||storeclosures.com^
 ||store-images.org^
@@ -1584,7 +1627,9 @@ data-e5.brmtr.org
 ||supportsecurity.ru^
 ||supports-update.info^
 ||supremesovietoflove.com^
+||surgutaero.net^
 ||sustaincharlotte.org^
+||sverdlovsk-info.email^
 ||svet-audit.com^
 ||svhostlo.duckdns.org^
 ||svobodnoepredlozheniye.com^
@@ -1615,6 +1660,7 @@ data-e5.brmtr.org
 ||techitzone.ru^
 ||techmersion.com^
 ||technoguides.org^
+||techsurgut.com^
 ||tefel.org^
 ||teiehram.org^
 ||telecom-connect.online^
@@ -1692,6 +1738,8 @@ data-e5.brmtr.org
 ||tunnelmole.net^
 ||tutmayinbizi.com^
 ||tvdseo.com^
+||tver-oboron.net^
+||tver-prom.com^
 ||tvfilia.com^
 ||tvoi-fayly.com^
 ||tvoy-disk.com^
@@ -1758,6 +1806,7 @@ data-e5.brmtr.org
 ||vergimh.forum^
 ||verifikations.ru^
 ||vesti-news.ru^
+||vgrdshuyyg.cn^
 ||victirtz.asia^
 ||video-dev.learnstore.vip^
 ||viewvanguard.org^
@@ -1770,6 +1819,7 @@ data-e5.brmtr.org
 ||vishneviyjazz.ru^
 ||visokiywkaf.ru^
 ||vitalock.space^
+||vizioilence.com^
 ||vjpnwk.shop^
 ||vladimir-ulyanov.com^
 ||vlasta-s.ru^
@@ -1896,6 +1946,7 @@ data-e5.brmtr.org
 ||xurekodip.com^
 ||xxxmorritas.com^
 ||Xy7ozq.info^
+||xzcgtffdlmn.cn^
 ||y1z4x7-t8bxt2.ru^
 ||y8z6x4-a1b6g1o62.ru^
 ||yamakrug.ru^
@@ -1946,9 +1997,9 @@ data-e5.brmtr.org
 ||zrysdxnzmo.antiwifi.cc^
 ||zt9398net.online^
 ||zwiirl.xyz^
+||amvlfdftchgyoie7femnnivsfnqzizrljm5rbixgsxpzgdavdtkhtlad.onion^
 ||hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion^
 ||izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion^
-||pdkmm57maikplkkpyd7jx47ckamqiz6f3htuvfa5dqadb766esflrlyd.onion^
 ||lockbitfbinpwhbyomxkiqtwhwiyetrbkb4hnqmshaonqxmsrqwg7yad.onion^
 ||lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion^
 ||lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion^
@@ -1975,7 +2026,8 @@ data-e5.brmtr.org
 ||lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion^
 ||lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion^
 ||lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion^
-||amvlfdftchgyoie7femnnivsfnqzizrljm5rbixgsxpzgdavdtkhtlad.onion^
+||pacrhxuvp7jkk6lrpo3qcdfus2y2jsn25cpbsy3mqncnhbs6gpzi5aad.onion^
+||pdkmm57maikplkkpyd7jx47ckamqiz6f3htuvfa5dqadb766esflrlyd.onion^
 ||africa^
 ||ai^
 ||army^
@@ -2010,6 +2062,7 @@ data-e5.brmtr.org
 ||digital^
 ||download^
 ||ee^
+||email^
 ||es^
 ||eu.com^
 ||eu.org^
