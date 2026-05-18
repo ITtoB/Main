@@ -36,6 +36,7 @@ drive.google.com
 dns.google.com
 apis.google.com
 csp.withgoogle.com
+firebasestorage.googleapis.com
 yastatic.net
 yndx-static.net
 maps.yastatic.net
@@ -1091,7 +1092,6 @@ neo.tildacdn.com
 @@||smbn.ru^
 @@||emcd.io^
 @@||tinsurance.ru^
-@@||google.de^
 @@||teletype.in^
 @@||qwased.xyz^
 @@||tinkoffjournal.ru^
