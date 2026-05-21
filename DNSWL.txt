@@ -1104,3 +1104,4 @@ neo.tildacdn.com
 @@||reg.ru^
 @@||artfut.com^
 @@||pastebin.com^
+@@||bitrix24.tech^
