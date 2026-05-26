@@ -632,6 +632,8 @@ gpb.pirson.tech
 api.pirson.tech
 chat.z.ai
 static.webinar.ru
+ixbt.online
+img.ixbt.site
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
