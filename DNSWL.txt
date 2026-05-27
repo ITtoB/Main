@@ -634,6 +634,7 @@ chat.z.ai
 static.webinar.ru
 ixbt.online
 img.ixbt.site
+sy.to
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
