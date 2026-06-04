@@ -15,6 +15,7 @@ mirror.oxilion.nl
 mirrors.tuna.tsinghua.edu.cn
 vantage.csw.lenovo.com
 chifsr.lenovomm.com
+static.rutracker.cc
 @@||docker.com^
 @@||discord.com^
 @@||raw.githubusercontent.com^
