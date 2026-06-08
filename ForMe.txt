@@ -28,3 +28,4 @@ static.rutracker.cc
 @@||orico.cc^
 @@||translatetube.pro^
 @@||translatetube.io^
+@@||hostora.ru^
