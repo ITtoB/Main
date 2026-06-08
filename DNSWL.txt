@@ -1110,3 +1110,4 @@ neo.tildacdn.com
 @@||pastebin.com^
 @@||bitrix24.tech^
 @@||stoloto.ru^
+@@||centos.org^
