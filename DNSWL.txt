@@ -1104,6 +1104,8 @@ neo.tildacdn.com
 @@||baikalsr-mailer.ru^
 @@||contentroute.icu^
 @@||carrotquest.help^
+@@||carrotquest.io^
+@@||carrotquest.app^
 @@||belmash.ru^
 @@||reg.ru^
 @@||artfut.com^
