@@ -1111,3 +1111,4 @@ neo.tildacdn.com
 @@||bitrix24.tech^
 @@||stoloto.ru^
 @@||centos.org^
+@@||keydisk.ru^
