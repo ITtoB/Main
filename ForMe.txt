@@ -30,4 +30,3 @@ static.rutracker.cc
 @@||translatetube.io^
 @@||hostora.ru^
 @@||firstbyte.ru^
-@@||samohosting.ru^
