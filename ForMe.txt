@@ -18,8 +18,6 @@ chifsr.lenovomm.com
 static.rutracker.cc
 @@||docker.com^
 @@||discord.com^
-@@||raw.githubusercontent.com^
-@@||github.com^
 @@||github.io^
 @@||comss.ru^
 @@||gtorrent.cc^
