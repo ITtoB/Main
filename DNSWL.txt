@@ -638,7 +638,6 @@ sy.to
 widget.site-chat.me
 ismyhost2.ddnsgeek.com
 effect.habr.com
-cloud.mail.ru
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
@@ -1118,3 +1117,5 @@ neo.tildacdn.com
 @@||centos.org^
 @@||keydisk.ru^
 @@||samohosting.ru^
+@@||cloud.mail.ru^
+@@||datacloudmail.ru^
