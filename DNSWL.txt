@@ -1119,3 +1119,4 @@ neo.tildacdn.com
 @@||samohosting.ru^
 @@||cloud.mail.ru^
 @@||datacloudmail.ru^
+@@||vigbo.tech^
