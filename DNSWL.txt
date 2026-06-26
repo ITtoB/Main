@@ -37,6 +37,7 @@ dns.google.com
 apis.google.com
 csp.withgoogle.com
 firebasestorage.googleapis.com
+google.de
 yastatic.net
 yndx-static.net
 maps.yastatic.net
