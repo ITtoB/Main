@@ -30,3 +30,4 @@ static.rutracker.cc
 @@||firstbyte.ru^
 @@||bastyon.com^
 @@||gitlab.io^
+@@||pocketnet.app^
