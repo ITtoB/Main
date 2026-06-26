@@ -29,3 +29,4 @@ static.rutracker.cc
 @@||hostora.ru^
 @@||firstbyte.ru^
 @@||bastyon.com^
+@@||gitlab.io^
