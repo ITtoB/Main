@@ -766,7 +766,6 @@ neo.tildacdn.com
 @@||cleversite.ru^
 @@||apple.com^
 @@||ipfs.io^
-@@||gitlab.io^
 @@||bitexpert.de^
 @@||tilda.cc^
 @@||videoframe2.com^
