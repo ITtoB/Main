@@ -639,6 +639,7 @@ sy.to
 widget.site-chat.me
 ismyhost2.ddnsgeek.com
 effect.habr.com
+savushkin.mdata.report
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
