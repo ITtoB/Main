@@ -1125,3 +1125,4 @@ neo.tildacdn.com
 @@||datacloudmail.ru^
 @@||vigbo.tech^
 @@||balena.io^
+@@||spice-space.org^
