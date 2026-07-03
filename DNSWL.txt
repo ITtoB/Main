@@ -641,6 +641,8 @@ ismyhost2.ddnsgeek.com
 effect.habr.com
 savushkin.mdata.report
 img.shields.io
+sdk-api.apptracer.ru
+cyberstatic.net
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
