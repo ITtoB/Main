@@ -645,10 +645,10 @@ sdk-api.apptracer.ru
 cyberstatic.net
 skr.sh
 grabify.org
-iplocation.io
-2ip.ua
 iplocation.net
 www.iplocation.net
+cdn.grabify.org
+cdn.iplogger.org
 z-cdn.chatglm.cn
 cdn.amplitude.com
 cdn.sprosivracha.com
