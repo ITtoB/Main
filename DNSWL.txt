@@ -1133,3 +1133,4 @@ neo.tildacdn.com
 @@||balena.io^
 @@||spice-space.org^
 @@||krasene.ru^
+@@||truenas.com^
