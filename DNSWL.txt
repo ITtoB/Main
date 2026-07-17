@@ -647,6 +647,11 @@ skr.sh
 grabify.org
 iplocation.net
 www.iplocation.net
+hostfiles.frogeye.fr
+threatfox.abuse.ch
+phishing.army
+urlhaus.abuse.ch
+lists.cyberhost.uk
 cdn.grabify.org
 cdn.iplogger.org
 z-cdn.chatglm.cn
