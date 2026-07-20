@@ -652,6 +652,9 @@ threatfox.abuse.ch
 phishing.army
 urlhaus.abuse.ch
 lists.cyberhost.uk
+api.amplitude.com
+engine.montiapm.com
+api-iam.intercom.io
 cdn.grabify.org
 cdn.iplogger.org
 z-cdn.chatglm.cn
@@ -1139,3 +1142,4 @@ neo.tildacdn.com
 @@||spice-space.org^
 @@||krasene.ru^
 @@||truenas.com^
+@@||ingest.sentry.io^
