@@ -53,7 +53,6 @@ privacy-cs.mail.ru
 trk.mail.ru
 kms.digiboy.ir
 stat.atol.tech
-widget.intercom.io
 st.aestatic.net
 ynuf.aliapp.org
 fourier.taobao.com
@@ -654,7 +653,6 @@ urlhaus.abuse.ch
 lists.cyberhost.uk
 api.amplitude.com
 engine.montiapm.com
-api-iam.intercom.io
 cdn.grabify.org
 cdn.iplogger.org
 z-cdn.chatglm.cn
@@ -1143,3 +1141,4 @@ neo.tildacdn.com
 @@||krasene.ru^
 @@||truenas.com^
 @@||ingest.sentry.io^
+@@||intercom.io^
