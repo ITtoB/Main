@@ -2,12 +2,11 @@ raw.githubusercontent.com
 ittob-home.duckdns.org
 ittob-mobile.duckdns.org
 checkip.dyndns.com
-synology.me
-ifconfig.me
 myexternalip.com
 bitbucket.org
 big.oisd.nl
 checkip.synology.com
+synology.me
 xpenology.tech
 ip-api.com
 checkip.dyndns.org
