@@ -2545,7 +2545,6 @@ data-e5.brmtr.org
 ||site^
 ||space^
 ||store^
-||su^
 ||team^
 ||tech^
 ||tf^
