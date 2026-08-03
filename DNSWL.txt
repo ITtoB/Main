@@ -1146,3 +1146,4 @@ neo.tildacdn.com
 @@||intercom.io^
 @@||ittob.space^
 @@||haxx.se^
+@@||curl.se^
