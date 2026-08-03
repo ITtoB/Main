@@ -1145,3 +1145,4 @@ neo.tildacdn.com
 @@||ingest.sentry.io^
 @@||intercom.io^
 @@||ittob.space^
+@@||haxx.se^
