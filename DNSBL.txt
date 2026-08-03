@@ -2399,8 +2399,6 @@ data-e5.brmtr.org
 ||pacrhxuvp7jkk6lrpo3qcdfus2y2jsn25cpbsy3mqncnhbs6gpzi5aad.onion^
 ||pdkmm57maikplkkpyd7jx47ckamqiz6f3htuvfa5dqadb766esflrlyd.onion^
 ||africa^
-||ai^
-||app^
 ||ar^
 ||army^
 ||art^
