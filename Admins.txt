@@ -25,3 +25,6 @@ checkip.synology.com
 @@||github.io^
 @@||gitlab.io^
 @@||docker.io^
+@@||haxx.se^
+@@||curl.se^
+@@||acme.sh^
