@@ -636,7 +636,6 @@ ixbt.online
 img.ixbt.site
 sy.to
 widget.site-chat.me
-ismyhost2.ddnsgeek.com
 effect.habr.com
 savushkin.mdata.report
 img.shields.io
@@ -1145,3 +1144,4 @@ neo.tildacdn.com
 @@||ingest.sentry.io^
 @@||intercom.io^
 @@||ittob.space^
+@@||ismyhost2.ddnsgeek.com^
