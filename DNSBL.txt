@@ -2537,7 +2537,6 @@ data-e5.brmtr.org
 ||se^
 ||sf.net^
 ||sh^
-||shop^
 ||si^
 ||site^
 ||space^
