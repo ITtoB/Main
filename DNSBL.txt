@@ -2492,7 +2492,6 @@ data-e5.brmtr.org
 ||ltd^
 ||ly^
 ||md^
-||me^
 ||microsoft^
 ||moe^
 ||mom^
@@ -2518,7 +2517,6 @@ data-e5.brmtr.org
 ||pk^
 ||pl^
 ||place^
-||pro^
 ||pw^
 ||qpon^
 ||quest^
@@ -2538,14 +2536,12 @@ data-e5.brmtr.org
 ||sf.net^
 ||sh^
 ||si^
-||site^
 ||space^
 ||store^
 ||team^
 ||tech^
 ||tf^
 ||today^
-||top^
 ||town^
 ||trade^
 ||tv^
