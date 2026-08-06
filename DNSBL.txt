@@ -2505,9 +2505,7 @@ data-e5.brmtr.org
 ||nl^
 ||nu^
 ||nz^
-||one^
 ||onion^
-||online^
 ||org.mx^
 ||ovh^
 ||pe^
