@@ -11,6 +11,7 @@ xpenology.tech
 ip-api.com
 checkip.dyndns.org
 checkip.synology.com
+href.li
 @@||lumpics.ru^
 @@||teletype.in^
 @@||synology.cn^
