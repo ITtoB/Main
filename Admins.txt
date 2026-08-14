@@ -28,3 +28,4 @@ checkip.synology.com
 @@||haxx.se^
 @@||curl.se^
 @@||acme.sh^
+@@||lrepacks.net^
