@@ -1147,3 +1147,4 @@ neo.tildacdn.com
 @@||ismyhost0.ddnsgeek.com^
 @@||ismyhost2.ddnsgeek.com^
 @@||geobasket.ru^
+@@||lakorn365.press^
