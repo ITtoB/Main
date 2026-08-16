@@ -16,6 +16,7 @@ mirrors.tuna.tsinghua.edu.cn
 vantage.csw.lenovo.com
 chifsr.lenovomm.com
 static.rutracker.cc
+lordfilm
 @@||docker.com^
 @@||discord.com^
 @@||github.io^
