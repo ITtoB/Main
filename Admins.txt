@@ -13,6 +13,7 @@ checkip.dyndns.org
 checkip.synology.com
 href.li
 one.one.one.one
+@@||docker.com^
 @@||ident.me
 @@||myexternalip.com
 @@||ipify.org
