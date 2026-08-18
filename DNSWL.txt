@@ -655,8 +655,6 @@ engine.montiapm.com
 ifconfig.me
 myip.ru
 tracker.renfei.net
-s.youtube.com
-one.one.one.one
 cdn.grabify.org
 cdn.iplogger.org
 z-cdn.chatglm.cn
