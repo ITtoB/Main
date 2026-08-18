@@ -12,6 +12,10 @@ ip-api.com
 checkip.dyndns.org
 checkip.synology.com
 href.li
+one.one.one.one
+@@||ident.me
+@@||myexternalip.com
+@@||ipify.org
 @@||lumpics.ru^
 @@||teletype.in^
 @@||synology.cn^
@@ -31,3 +35,7 @@ href.li
 @@||acme.sh^
 @@||lrepacks.net^
 @@||iceprogs.ru^
+@@||icanhazip.com^
+@@||lrepacks.net^
+@@||iceprogs.ru^
+@@||renfei.net^
