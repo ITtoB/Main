@@ -17,6 +17,7 @@ vantage.csw.lenovo.com
 chifsr.lenovomm.com
 static.rutracker.cc
 lordfilm
+s.youtube.com
 @@||docker.com^
 @@||discord.com^
 @@||github.io^
