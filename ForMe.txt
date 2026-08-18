@@ -20,7 +20,6 @@ lordfilm
 s.youtube.com
 @@||docker.com^
 @@||discord.com^
-@@||github.io^
 @@||comss.ru^
 @@||gtorrent.cc^
 @@||upload.ee^
@@ -31,5 +30,4 @@ s.youtube.com
 @@||hostora.ru^
 @@||firstbyte.ru^
 @@||bastyon.com^
-@@||gitlab.io^
 @@||pocketnet.app^
