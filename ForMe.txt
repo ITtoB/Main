@@ -19,6 +19,7 @@ static.rutracker.cc
 lordfilm
 s.youtube.com
 @@||discord.com^
+@@||discordapp.com^
 @@||comss.ru^
 @@||gtorrent.cc^
 @@||upload.ee^
