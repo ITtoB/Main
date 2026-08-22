@@ -18,6 +18,8 @@ chifsr.lenovomm.com
 static.rutracker.cc
 lordfilm
 s.youtube.com
+www.facebook.com
+static.xx.fbcdn.net
 @@||discord.com^
 @@||discordapp.com^
 @@||comss.ru^
@@ -31,3 +33,6 @@ s.youtube.com
 @@||firstbyte.ru^
 @@||bastyon.com^
 @@||pocketnet.app^
+@@||fbsbx.com^
+@@||coolkit.cc^
+@@||coolkit.cn^
