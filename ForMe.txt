@@ -36,3 +36,4 @@ static.xx.fbcdn.net
 @@||fbsbx.com^
 @@||coolkit.cc^
 @@||coolkit.cn^
+@@||dreame.tech^
