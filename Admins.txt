@@ -1,4 +1,3 @@
-raw.githubusercontent.com
 ittob-home.duckdns.org
 ittob-mobile.duckdns.org
 checkip.dyndns.com
