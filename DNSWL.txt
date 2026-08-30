@@ -660,6 +660,8 @@ api64.ipify.org
 cdn.grabify.org
 cdn.iplogger.org
 z-cdn.chatglm.cn
+userlocation.googleapis.com
+time.izatcloud.net
 cdn.amplitude.com
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
@@ -1155,3 +1157,7 @@ neo.tildacdn.com
 @@||nowdrm.co^
 @@||dropboxapi.com^
 @@||dropbox.com^
+@@||xiaomi.net^
+@@||xiaomi.com^
+@@||miui.com^
+@@||amap.com^
