@@ -662,6 +662,8 @@ cdn.iplogger.org
 z-cdn.chatglm.cn
 userlocation.googleapis.com
 time.izatcloud.net
+speedtest.hiper.dk
+speedtest.kamel.network
 cdn.amplitude.com
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
