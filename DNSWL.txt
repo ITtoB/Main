@@ -664,6 +664,7 @@ userlocation.googleapis.com
 time.izatcloud.net
 speedtest.hiper.dk
 speedtest.kamel.network
+speedtest.milkywan.fr
 cdn.amplitude.com
 cdn.sprosivracha.com
 cdn.sozvezdie-tour.ru
