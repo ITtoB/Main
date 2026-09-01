@@ -666,7 +666,6 @@ speedtest.hiper.dk
 speedtest.kamel.network
 speedtest.milkywan.fr
 play2go.cloud
-vks-cdn.support.vk.team
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
@@ -1167,3 +1166,4 @@ neo.tildacdn.com
 @@||xiaomi.com^
 @@||miui.com^
 @@||amap.com^
+@@||support.vk.team^
