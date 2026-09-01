@@ -666,6 +666,7 @@ speedtest.hiper.dk
 speedtest.kamel.network
 speedtest.milkywan.fr
 play2go.cloud
+vks-cdn.support.vk.team
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
