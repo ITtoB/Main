@@ -21,6 +21,7 @@ s.youtube.com
 www.facebook.com
 static.xx.fbcdn.net
 love.mail.ru
+keys-api.k-keys.workers.dev
 @@||discord.com^
 @@||discordapp.com^
 @@||comss.ru^
