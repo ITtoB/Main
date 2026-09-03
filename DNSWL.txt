@@ -667,6 +667,7 @@ speedtest.kamel.network
 speedtest.milkywan.fr
 play2go.cloud
 link.sendsay.ru
+pally.info
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
