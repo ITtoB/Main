@@ -1158,6 +1158,7 @@ neo.tildacdn.com
 @@||intercom.io^
 @@||ittob.space^
 @@||ismyhost0.ddnsgeek.com^
+@@||ismyhost1.ddnsgeek.com^
 @@||ismyhost2.ddnsgeek.com^
 @@||geobasket.ru^
 @@||lakorn365.press^
