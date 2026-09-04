@@ -668,6 +668,7 @@ speedtest.milkywan.fr
 play2go.cloud
 link.sendsay.ru
 pally.info
+flocktory.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
