@@ -665,10 +665,15 @@ time.izatcloud.net
 speedtest.hiper.dk
 speedtest.kamel.network
 speedtest.milkywan.fr
-play2go.cloud
-link.sendsay.ru
 pally.info
 flocktory.com
+odc.officeapps.live.com
+mobile.pipe.aria.microsoft.com
+substrate.office.com
+in.appcenter.ms
+outlook.office365.com
+connectivitycheck.platform.hihonorcloud.com
+mask-api.icloud.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
@@ -1171,3 +1176,7 @@ neo.tildacdn.com
 @@||miui.com^
 @@||amap.com^
 @@||support.vk.team^
+@@||play2go.cloud^
+@@||link.sendsay.ru^
+@@||fix-price.com^
+@@||dbankcdn.com^
