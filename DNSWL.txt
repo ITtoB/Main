@@ -1186,3 +1186,4 @@ neo.tildacdn.com
 @@||fix-price.com^
 @@||dbankcdn.com^
 @@||iloveimg.com^
+@@||report.finance^
