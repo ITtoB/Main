@@ -677,6 +677,7 @@ mask-api.icloud.com
 update-dra.platform.hicloud.com
 data-e5.brmtr.org
 www.rpt.ru.com
+servicepipe.tech
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
