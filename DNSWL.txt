@@ -674,6 +674,9 @@ in.appcenter.ms
 outlook.office365.com
 connectivitycheck.platform.hihonorcloud.com
 mask-api.icloud.com
+update-dra.platform.hicloud.com
+data-e5.brmtr.org
+www.rpt.ru.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
