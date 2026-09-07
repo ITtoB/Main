@@ -1190,3 +1190,4 @@ neo.tildacdn.com
 @@||dbankcdn.com^
 @@||iloveimg.com^
 @@||report.finance^
+@@||skydns.ru^
