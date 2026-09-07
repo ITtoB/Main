@@ -678,6 +678,7 @@ update-dra.platform.hicloud.com
 data-e5.brmtr.org
 www.rpt.ru.com
 servicepipe.tech
+myexternalip.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
