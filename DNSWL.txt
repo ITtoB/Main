@@ -679,6 +679,8 @@ data-e5.brmtr.org
 www.rpt.ru.com
 servicepipe.tech
 myexternalip.com
+family.dot.dns.yandex.net
+freedns.controld.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
