@@ -1191,3 +1191,5 @@ neo.tildacdn.com
 @@||iloveimg.com^
 @@||report.finance^
 @@||skydns.ru^
+@@||tildacdn.com^
+@@||tildaapi.com^
