@@ -775,6 +775,7 @@ neo.tildacdn.com
 @@||relog.kz^
 @@||bitrix24.com^
 @@||vk.com^
+@@||vk.ru^
 @@||auxxxilium.tech^
 @@||skif.pro^
 @@||alibaba.com^
