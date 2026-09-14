@@ -681,6 +681,7 @@ servicepipe.tech
 myexternalip.com
 family.dot.dns.yandex.net
 freedns.controld.com
+ape-androids.isappcloud.com
 doh.cleanbrowsing.org
 cdn.hostinux.network
 cdn.amplitude.com
