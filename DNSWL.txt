@@ -1195,3 +1195,4 @@ neo.tildacdn.com
 @@||skydns.ru^
 @@||tildacdn.com^
 @@||tildaapi.com^
+@@||insales-shop.ru^
