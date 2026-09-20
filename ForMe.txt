@@ -22,6 +22,20 @@ www.facebook.com
 static.xx.fbcdn.net
 love.mail.ru
 keys-api.k-keys.workers.dev
+miranda.today
+marmara.ltd
+libreaxolotl.xyz
+usa.bulger.au
+010110.110001000.xyz
+kabel.entreri.de
+ghosttown.dev
+drive.gehenna.cz
+o.ofdma.de
+eu.g3wip.uk
+0016100.xyz
+mstdn.plus
+number.localenby.is
+kidcoral.com
 @@||discord.com^
 @@||discordapp.com^
 @@||comss.ru^
@@ -39,3 +53,5 @@ keys-api.k-keys.workers.dev
 @@||coolkit.cc^
 @@||coolkit.cn^
 @@||dreame.tech^
+@@||triplebit.dev^
+@@||oneclickhost.eu^
