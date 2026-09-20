@@ -1196,3 +1196,4 @@ neo.tildacdn.com
 @@||skydns.ru^
 @@||tildacdn.com^
 @@||tildaapi.com^
+@@||harica.gr^
