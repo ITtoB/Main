@@ -1197,3 +1197,4 @@ neo.tildacdn.com
 @@||tildacdn.com^
 @@||tildaapi.com^
 @@||harica.gr^
+@@||smi2.net^
