@@ -684,6 +684,7 @@ freedns.controld.com
 ape-androids.isappcloud.com
 doh.cleanbrowsing.org
 med.ax
+eatonprodpqdinnovaiothub1.azure-devices.net
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
