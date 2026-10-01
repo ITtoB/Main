@@ -685,6 +685,7 @@ ape-androids.isappcloud.com
 doh.cleanbrowsing.org
 med.ax
 eatonprodpqdinnovaiothub1.azure-devices.net
+selectel.live
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
