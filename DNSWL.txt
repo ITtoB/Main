@@ -1203,3 +1203,5 @@ neo.tildacdn.com
 @@||harica.gr^
 @@||smi2.net^
 @@||humanelement.space^
+@@||selectel.live^
+@@||crazedns.ru^
