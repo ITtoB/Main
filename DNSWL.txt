@@ -686,6 +686,7 @@ doh.cleanbrowsing.org
 med.ax
 eatonprodpqdinnovaiothub1.azure-devices.net
 selectel.live
+ihsu-eastus-7-2.eastus.cloudapp.azure.com
 cdn.hostinux.network
 cdn.amplitude.com
 cdn.sprosivracha.com
@@ -1201,3 +1202,4 @@ neo.tildacdn.com
 @@||tildaapi.com^
 @@||harica.gr^
 @@||smi2.net^
+@@||humanelement.space^
