@@ -1205,3 +1205,4 @@ neo.tildacdn.com
 @@||humanelement.space^
 @@||selectel.live^
 @@||crazedns.ru^
+@@||pravo.tech^
