@@ -6,7 +6,6 @@ bitbucket.org
 big.oisd.nl
 synology.me
 ip-api.com
-checkip.dyndns.org
 checkip.synology.com
 href.li
 one.one.one.one
