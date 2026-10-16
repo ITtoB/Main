@@ -4,9 +4,7 @@ checkip.dyndns.com
 myexternalip.com
 bitbucket.org
 big.oisd.nl
-checkip.synology.com
 synology.me
-xpenology.tech
 ip-api.com
 checkip.dyndns.org
 checkip.synology.com
