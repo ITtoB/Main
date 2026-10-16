@@ -1206,3 +1206,9 @@ neo.tildacdn.com
 @@||selectel.live^
 @@||crazedns.ru^
 @@||pravo.tech^
+@@||magnit.ru^
+@@||appsflyersdk.com^
+@@||t-bank-app.ru^
+@@||chitalnya.blog^
+@@||4pda.ws^
+@@||pravo.tech^
