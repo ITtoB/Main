@@ -2,13 +2,17 @@ ittob-home.duckdns.org
 ittob-mobile.duckdns.org
 checkip.dyndns.com
 myexternalip.com
-bitbucket.org
-big.oisd.nl
 synology.me
 ip-api.com
 checkip.synology.com
 href.li
 one.one.one.one
+phishing.army
+hostfiles.frogeye.fr
+cdn.jsdelivr.net
+bitbucket.org
+someonewhocares.org
+lists.cyberhost.uk
 @@||docker.com^
 @@||ident.me
 @@||myexternalip.com
@@ -36,3 +40,5 @@ one.one.one.one
 @@||lrepacks.net^
 @@||iceprogs.ru^
 @@||renfei.net^
+@@||abuse.ch^
+@@||oisd.nl^
