@@ -13,10 +13,7 @@
 @@bitbucket.org^
 @@someonewhocares.org^
 @@lists.cyberhost.uk^
-@@cdnjs.cloudflare.com^
 
-@@||apis.google.com^
-@@||cloudflare-dns.com^
 @@||docker.com^
 @@||ident.me
 @@||myexternalip.com
