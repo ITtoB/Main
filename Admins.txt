@@ -42,3 +42,4 @@ lists.cyberhost.uk
 ||renfei.net^
 ||abuse.ch^
 ||oisd.nl^
+||skydns.ru^
