@@ -657,9 +657,6 @@ myip.ru
 tracker.renfei.net
 api.ipify.org
 api64.ipify.org
-cdn.grabify.org
-cdn.iplogger.org
-z-cdn.chatglm.cn
 userlocation.googleapis.com
 time.izatcloud.net
 speedtest.hiper.dk
@@ -694,6 +691,10 @@ www.google.com
 settings-win.data.microsoft.com
 config.edge.skype.com
 downloads.vivaldi.com
+clck.ru
+cdn.grabify.org
+cdn.iplogger.org
+z-cdn.chatglm.cn
 cdnjs.cloudflare.com
 cdn.hostinux.network
 cdn.amplitude.com
