@@ -14,9 +14,9 @@
 @@someonewhocares.org^
 @@lists.cyberhost.uk^
 @@||docker.com^
-@@||ident.me
-@@||myexternalip.com
-@@||ipify.org
+@@||ident.me^
+@@||myexternalip.com^
+@@||ipify.org^
 @@||lumpics.ru^
 @@||teletype.in^
 @@||synology.cn^
