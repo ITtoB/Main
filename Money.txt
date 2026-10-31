@@ -7,7 +7,6 @@
 @@||bycbe.com^
 @@||byapis.com^
 @@||forexpf.ru^
-@@||investing.com^
 @@||artinvestment.ru^
 @@||2bitcoins.ru^
 @@||investing.com^
@@ -26,3 +25,4 @@
 @@||run.app^
 @@||on.aws^
 @@||facebook.com^
+@@||primis.tech^
