@@ -1225,3 +1225,5 @@ neo.tildacdn.com
 @@||cloudflare-dns.com^
 @@||youtube.com^
 @@||pocketbook.de^
+@@||okko.tv^
+@@||marketo.com^
