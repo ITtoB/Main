@@ -1224,3 +1224,4 @@ neo.tildacdn.com
 @@||apis.google.com^
 @@||cloudflare-dns.com^
 @@||youtube.com^
+@@||pocketbook.de^
