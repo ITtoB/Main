@@ -1227,3 +1227,4 @@ neo.tildacdn.com
 @@||pocketbook.de^
 @@||okko.tv^
 @@||marketo.com^
+@@||mtsbank.ru^
