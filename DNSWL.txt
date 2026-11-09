@@ -694,6 +694,7 @@ www.google.com
 settings-win.data.microsoft.com
 config.edge.skype.com
 downloads.vivaldi.com
+kp-inform.ru
 cdnjs.cloudflare.com
 cdn.hostinux.network
 cdn.amplitude.com
