@@ -695,6 +695,8 @@ settings-win.data.microsoft.com
 config.edge.skype.com
 downloads.vivaldi.com
 kp-inform.ru
+user-events-notifier.dns-shop.ru
+drive.usercontent.google.com
 cdnjs.cloudflare.com
 cdn.hostinux.network
 cdn.amplitude.com
